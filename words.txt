@@ -11,6 +11,7 @@ stationary: "Unchanging"
 uproarious: "Noisy"
 urgent: "Required immediately
 Today : present moment 
+tomorrow: next day
 
 
 
