@@ -1,0 +1,19 @@
+aquil : abababa
+help : save
+abnormal: "Not normal"
+elucidate: "To make clear"
+pacify: "To calm"
+query: "Question"
+queue: "Line"
+quiet: Making no noise
+rapid: "Having great speed
+stationary: "Unchanging"
+uproarious: "Noisy"
+urgent: "Required immediately
+Today : present moment 
+
+
+
+
+
+
